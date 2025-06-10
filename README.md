@@ -1,6 +1,6 @@
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="./banner.png" alt="Welcome Banner" width="100%" />
+  <img src="./gitHub-banner.png" alt="Welcome Banner" width="100%" />
 </p>
 
 ## 👋 Hi, I'm Divyansh Shukla
