@@ -1,23 +1,29 @@
-<h1 align="center">Hi 👋, I'm Divyansh Shukla</h1>
-<h3 align="center">A passionate CSE undergrad exploring Web Dev & AI</h3>
+<!-- Banner / GIF -->
+<p align="center">
+  <img src="./banner.png" alt="Welcome Banner" width="100%" />
+</p>
 
-- 🎓 B.Tech CSE at **IET Lucknow**
-- 🌱 Currently learning **React, Next.js, and Machine Learning**
-- 💼 Looking for **internship opportunities** in Web Dev / AI
-- 👨‍💻 My projects are on [GitHub](https://github.com/itsdivyanshuno)
-- 📫 Reach me at **itsdivyanshuno@gmail.com**
-- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/itsdivyanshuno/)
+## 👋 Hi, I'm Divyansh Shukla
+
+🎓 B.Tech CSE @ **IET Lucknow**  
+🌱 Currently learning **React**, **Next.js**, **Java**, and **Machine Learning**  
+💼 Looking for **internship opportunities** in **Web Development** and **AI/ML**  
+👨‍💻 I love building cool stuff and sharing it on GitHub  
+📫 Reach me at: **itsdivyanshuno@gmail.com**  
+🔗 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itsdivyanshuno-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/itsdivyanshuno)  
+[![Instagram](https://img.shields.io/badge/Instagram-@itsdivyanshuno-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/itsdivyanshuno/)  
+[![Gmail](https://img.shields.io/badge/Gmail-itsdivyanshuno@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsdivyanshuno@gmail.com)
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 **Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,6 +59,13 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=itsdivyanshuno&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdivyanshuno&layout=compact)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsdivyanshuno&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdivyanshuno&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdivyanshuno&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
