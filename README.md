@@ -104,7 +104,3 @@ Here are a few of my favorite projects:
 > “The best way to get started is to quit talking and begin doing.” — Walt Disney
 
 ---
-
-Let me know if you'd like a **custom banner**, **project carousel**, or **dark/light toggle** next!
-
-Would you like me to put this in a `.md` file and help you upload it to your repo?
