@@ -94,7 +94,7 @@ Here are a few of my favorite projects:
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itsdivyanshuno&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsdivyanshuno&theme=react-dark&hide_border=true" />
 </p>
 
 ---
