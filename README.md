@@ -1,19 +1,26 @@
-<!-- Banner / GIF -->
+<!-- Banner -->
 <p align="center">
-  <img src="./gitHub-banner.png" alt="Welcome Banner" width="100%" />
+  <img src="https://github.com/itsdivyanshuno/itsdivyanshuno/blob/main/gitHub-banner.png?raw=true" alt="Welcome Banner" width="100%" />
 </p>
 
-## 👋 Hi, I'm Divyansh Shukla
+<h2 align="center">Hi 👋, I'm Divyansh Shukla</h2>
 
-🎓 B.Tech CSE @ **IET Lucknow**  
-🌱 Currently learning **React**, **Next.js**, **Java**, and **Machine Learning**  
-💼 Looking for **internship opportunities** in **Web Development** and **AI/ML**  
-👨‍💻 I love building cool stuff and sharing it on GitHub  
-📫 Reach me at: **itsdivyanshuno@gmail.com**  
-🔗 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-itsdivyanshuno-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/itsdivyanshuno)  
-[![Instagram](https://img.shields.io/badge/Instagram-@itsdivyanshuno-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/itsdivyanshuno/)  
-[![Gmail](https://img.shields.io/badge/Gmail-itsdivyanshuno@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsdivyanshuno@gmail.com)
+<p align="center">
+  🎓 B.Tech CSE @ <strong>IET Lucknow</strong> <br />
+  🌱 Learning <strong>React</strong>, <strong>Next.js</strong>, <strong>Java</strong>, <strong>Machine Learning</strong> <br />
+  💼 Seeking internship in <strong>Web Development</strong> & <strong>AI/ML</strong> <br />
+  📬 Reach me at: <strong>itsdivyanshuno@gmail.com</strong> <br />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsdivyanshuno"><img src="https://img.shields.io/badge/LinkedIn-itsdivyanshuno-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:itsdivyanshuno@gmail.com"><img src="https://img.shields.io/badge/Gmail-itsdivyanshuno@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/itsdivyanshuno/"><img src="https://img.shields.io/badge/Instagram-@itsdivyanshuno-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsdivyanshuno&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
@@ -25,7 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frontend Development**  
+**Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,7 +44,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**AI / ML (Upcoming)**  
+**AI/ML Tools**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -59,6 +66,18 @@
 
 ---
 
+## 🛠️ Featured Projects
+
+Here are a few of my favorite projects:
+
+- 🔗 [**Portfolio Website**](https://github.com/itsdivyanshuno/portfolio) — Simple personal portfolio using HTML, CSS, JS  
+- ⛅ [**Weather App**](https://github.com/itsdivyanshuno/weather-app) — Fetches live data using APIs  
+- 💬 [**Chat App**](https://github.com/itsdivyanshuno/chat-app) — Real-time messaging with Firebase  
+
+> *(Replace with real links as needed)*
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -69,3 +88,23 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdivyanshuno&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itsdivyanshuno&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 💡 Quote of the Day
+
+> “The best way to get started is to quit talking and begin doing.” — Walt Disney
+
+---
+
+Let me know if you'd like a **custom banner**, **project carousel**, or **dark/light toggle** next!
+
+Would you like me to put this in a `.md` file and help you upload it to your repo?
