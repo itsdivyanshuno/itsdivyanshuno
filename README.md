@@ -6,7 +6,7 @@
 <h2 align="center">Hi 👋, I'm Divyansh Shukla</h2>
 
 <p align="center">
-  🎓 B.Tech CSE @ <strong>IET Lucknow</strong> <br />
+  🎓 B.Tech CSE @ <strong>HBTU Kanpur</strong> <br />
   🌱 Learning <strong>React</strong>, <strong>Next.js</strong>, <strong>Java</strong>, <strong>Machine Learning</strong> <br />
   💼 Seeking internship in <strong>Web Development</strong> & <strong>AI/ML</strong> <br />
   📬 Reach me at: <strong>itsdivyanshuno@gmail.com</strong> <br />
