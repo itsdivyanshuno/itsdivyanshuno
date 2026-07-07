@@ -12,6 +12,7 @@
   📬 Reach me at: <strong>itsdivyanshuno@gmail.com</strong> <br />
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/itsdivyanshuno"><img src="https://img.shields.io/badge/LinkedIn-itsdivyanshuno-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:itsdivyanshuno@gmail.com"><img src="https://img.shields.io/badge/Gmail-itsdivyanshuno@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
